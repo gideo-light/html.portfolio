@@ -56,3 +56,6 @@ Changes under `apps/vanta-table/**` trigger the Vanta Table GitHub Actions build
 
 ## Security
 Do not commit production secrets, email API keys, analytics secrets or booking credentials.
+
+
+Deployment refresh: Vercel project root configured for this application.
